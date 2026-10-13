@@ -5,4 +5,7 @@ When we type this command, it shows all the files inside this folder "ls -a"
 ./  ../  .git/ "here it is showing .git/ means, The repository formed in my Pc
 
 New branch is created. this changes made in feature1 branch.
+
 Merge confilict (change in feature1 branch).
+Merge confilict (change in main branch).
+
